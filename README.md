@@ -1,7 +1,7 @@
 # Music-Recommendation-System-Using-Emotion
 
 
-## Data Sets
+## DATASETS
 
 #### 1. Toronto emotional speech set - [TESS] (https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)
 
